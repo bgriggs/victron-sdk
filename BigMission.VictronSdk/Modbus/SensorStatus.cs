@@ -1,4 +1,4 @@
-﻿namespace Victron.Modbus;
+﻿namespace BigMission.VictronSdk.Modbus;
 
 public enum SensorStatus
 {

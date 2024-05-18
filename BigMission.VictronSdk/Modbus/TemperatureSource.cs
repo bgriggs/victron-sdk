@@ -2,7 +2,7 @@
 using NModbus;
 using System.Net.Sockets;
 
-namespace Victron.Modbus;
+namespace BigMission.VictronSdk.Modbus;
 
 // https://www.victronenergy.com/live/ccgx:modbustcp_faq
 /// <summary>
